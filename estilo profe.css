@@ -2,7 +2,6 @@ body {
 background-color: red;
 }
 
-
 header {
 	background-color: orange;
 	border:red;
@@ -13,7 +12,6 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-content: baseline;
-
 }
 
 h1 {
@@ -24,15 +22,12 @@ nav {
 	background-color: lightblue;
 }
 
-
 /* If the screen size is 601px or more, set the font-size of <div> to 80px */
 @media only screen and (min-width: 601px) {
   div.example {
     font-size: 80px;
   }
 }
-
-
 
 
 /* Extra small devices (phones, 600px and down) */
