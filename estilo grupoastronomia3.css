@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+    }
+    }
+    
+    /* Small devices (portrait tablets and large phones, 600px and up) */
+    @media only screen and (min-width: 600px) {
+    body {
+        background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+    }
+    }
+    
+    /* Medium devices (landscape tablets, 768px and up) */
+    @media only screen and (min-width: 768px) {
+    body {
+        background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+    }
+    }
+    
+    /* Large devices (laptops/desktops, 992px and up) */
+    @media only screen and (min-width: 992px) {
+    body {
+        background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+    }
+    }
+    
+    /* Extra large devices (large laptops and desktops, 1200px and up) */
+    @media only screen and (min-width: 1200px) {
+    body {
+        background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+    }
+    }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+body {
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+body {
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+body {
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+body {
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+body {
+    background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-44.jpg?w=1560&ssl=1)!important
+}
+}
+.col-A{
+    width: 70%;
+    padding-top: 20px;
+   
+}
+.col{
+    width: 30%;
+    padding-top: 20px;
+}
+.container1{
+    width: 100%;
+}
+.col-1{
+    width: 100%;
+}
+.video2{
+margin-top: 60px;
+width: 600;
+
+}
+#video2{
+    width: 50%;
+    float: left;
+    padding: 2px;
+   
+}
+#video3{
+    width: 50%;
+    float: left;
+    padding: 2px;
+
+}
+.aside{
+    float: inline-start;
+}
+.container2{
+    width: 60%;
+    padding-top: 0px;
+    margin-left: 0px;
+}
+#foto1{
+
+float:none;
+}
+#foto3{
+ float: none;
+        }   
+      
+            .col-C{
+                width: 70%;
+                padding-top: 5px;
+                
+            }
+
+h1 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+.row {
+    color: white;
+}

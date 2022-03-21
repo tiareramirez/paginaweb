@@ -1,0 +1,80 @@
+.fondo { 
+	 content: ' ';
+    display: block;
+       position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 60%;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    background-image: url(https://media.gq.com.mx/photos/607d9857ff5494ae253c8d96/2:3/w_1332,h_1998,c_limit/lluvia%20de%20estrellas-177595434.jpg) ;
+}
+
+
+body {
+	position: relative;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+
+h3{
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+
+h5 {
+	color: white;
+}
+
+
+background-image: url(https://media.gq.com.mx/photos/607d9857ff5494ae253c8d96/2:3/w_1332,h_1998,c_limit/lluvia%20de%20estrellas-177595434.jpg)!important ;
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+body {
+background-color: yellow;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+body {
+background-color: blue;
+}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+body {
+background-color: white;
+}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+body {
+background-color: lightblue;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+body {
+background-color: lightpink;
+}
+}
